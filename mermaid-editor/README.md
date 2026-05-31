@@ -11,10 +11,6 @@
 ## 构建
 
 ```bash
-# 需要先下载 mermaid.min.js
-curl -L -o mermaid.min.js https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js
-
-# 构建最终 HTML
 node build.js
 ```
 
